@@ -1,9 +1,34 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Cardápio Digital de Restaurante em React JS e Vite**
 
-Currently, two official plugins are available:
+Bem-vindo ao repositório do Cardápio Digital de Restaurante desenvolvido em React JS e Vite, uma aplicação moderna e eficiente para proporcionar uma experiência excepcional aos clientes ao explorarem o menu do restaurante digitalmente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# card-pioDigital
+### Funcionalidades
+
+- **Navegação Intuitiva:** Interface amigável e intuitiva para uma experiência de usuário agradável.
+
+- **Design Responsivo:** Adaptação elegante a dispositivos móveis e desktop, garantindo uma visualização atraente em diferentes telas.
+
+- **Detalhes do Item:** Visualização completa de cada item, incluindo descrição, preço e opções personalizadas.
+
+
+Acesse o aplicativo em seu navegador através de https://card-pio-digital.vercel.app
+
+
+### Tecnologias Utilizadas
+
+- React JS
+- Vite
+- HTML5
+- CSS3
+
+### Autor
+
+Daniel Carvalho de Assis
+
+### Licença
+
+Este projeto está sob a [Licença MIT](LICENSE).
+
+Aproveite explorar o Cardápio Digital de Restaurante em React JS e Vite!
